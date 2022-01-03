@@ -30,7 +30,9 @@ echo 0 > /dev/myled0
  ```
  # ライセンス
 
-Copyright (c) 2021 Ryuich Ueda </span>
+Copyright (c) 2021 Ryuich Ueda
+
+
 Copyright (c) 2021 Hiroyuki Matsuda
 
 > This program is free software; you can redistribute it and/or

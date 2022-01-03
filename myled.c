@@ -1,7 +1,8 @@
-//SPDX-License-Identifier:GPL-2.0
+//SPDX-License-Identifier:GPL-3.0
 /*
 *Copyright(c)2021 Ryuich Ueda. All rights reserved.
-*/
+*Copyright(c)2021 Reo Yatabe. All rights reserved.
+* */
 #include <linux/module.h>
 #include <linux/fs.h>
 #include <linux/cdev.h>

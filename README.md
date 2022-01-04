@@ -20,6 +20,9 @@ LANケーブル
 
 ![AFCB615B-CD23-4925-8057-66180299B9D9](https://user-images.githubusercontent.com/96198451/148104494-d5f0b276-900f-4904-889c-394dcd0c144a.jpeg)
 
+![81519D48-5CD5-4EF9-8F34-40008755282D](https://user-images.githubusercontent.com/96198451/148104656-cef0b3e7-aac8-4326-b67a-9859a19d3537.jpeg)
+
+
 
 
 

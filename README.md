@@ -18,6 +18,9 @@ LANケーブル
 
 ・ジャンパー線×１
 
+![AFCB615B-CD23-4925-8057-66180299B9D9](https://user-images.githubusercontent.com/96198451/148104494-d5f0b276-900f-4904-889c-394dcd0c144a.jpeg)
+
+
 
 
 # 基本的な動作：
